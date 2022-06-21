@@ -5,7 +5,7 @@ const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
 root.render(
   <StrictMode>
     {
-      // TODO: APP HERE
+      // TODO: BUILD REACT APP HERE
     }
   </StrictMode>
 )
