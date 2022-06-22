@@ -2,9 +2,29 @@ Directory Overview
 ===
 [Go to README](./README.md)
 
-TODO: overview directory
+```
+📦src
+ ┣ 📜index.html
+ ┗ 📜index.tsx
+📦tests
+ ┗ 📂mocks
+ ┃ ┣ 📜file-mock.js
+ ┃ ┗ 📜style-mock.js
+📦webpack
+ ┣ 📜webpack.config.dev.js
+ ┣ 📜webpack.config.global.js
+ ┣ 📜webpack.config.js
+ ┗ 📜webpack.config.prod.js
+📜.babelrc.js
+📜.gitignore
+📜jest.config.js
+📜package-lock.json
+📜package.json
+📜readme-dir.md
+📜readme-tech.md
+📜README.md
+📜tsconfig.json
+📜tsmap.d.ts
+```
 
-root
-| Aa
-
-[README.md]: ./README.md
+[Go to README](./README.md)

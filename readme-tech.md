@@ -1,6 +1,7 @@
 Technologies Overview
 ===
 [Go to README](./README.md)
+
 ### Prepared Technologies:
 * [Node]
 * [Webpack]
@@ -9,6 +10,8 @@ Technologies Overview
 * [React]
 * [Jest]
 * [React Refresh]
+
+[Go to README](./README.md)
 
 [Node]: https://nodejs.org/
 [Webpack]: https://webpack.js.org/

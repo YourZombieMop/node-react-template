@@ -6,8 +6,8 @@ module.exports = {
   // entry of project is at path 'ROOT/src/index.tsx'
   entry: path.resolve(__dirname, '..', './src/index.tsx'),
   output: {
-    // output of project is at path 'ROOT/build/'
-    path: path.resolve(__dirname, '..', './build/'),
+    // output of project is at path 'ROOT/bin/'
+    path: path.resolve(__dirname, '..', './bin/'),
     filename: 'bundle.js',
   },
   plugins: [
